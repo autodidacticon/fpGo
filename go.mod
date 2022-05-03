@@ -1,4 +1,4 @@
-module github.com/TeaEntityLab/fpGo
+module gitlab.com/gamestopcorp/platform/blockchain/wallet/fpGo.git/v2
 
 go 1.18
 
